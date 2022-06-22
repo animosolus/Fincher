@@ -19,5 +19,4 @@ setuptools.setup(
         "Operating System :: OS Independent",
 
     ],
-    packages=["pandas", "numpy"],
 )
